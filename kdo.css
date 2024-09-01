@@ -1,0 +1,96 @@
+.header {
+   img {
+    border-radius: 150%;
+    border: solid black;
+   }
+  p{
+    font-family: "New Amsterdam", sans-serif;
+    font-weight: 400;
+        font-style: normal;
+        font-size: 27px;
+  }
+
+    text-align:center ;
+    hr{
+        border:5px solid aqua;
+       
+    }
+}
+
+.datadiri{
+    center{
+        font-family: "New Amsterdam", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 20px;
+    }
+      pre{
+
+      }
+   hr{
+    border: 5px solid aqua;
+   }
+}
+.desgombes{
+    text-align: center;
+    center{
+        font-family: "New Amsterdam", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 20px;
+    }
+    p{
+        font-family: "Fjalla One", sans-serif;
+         font-weight: 400;
+         font-style: normal;
+    }
+    hr{
+        border: 5px solid aqua;
+       }
+}
+
+.tabelsekolah{
+    center{
+        font-family: "New Amsterdam", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 20px;
+    }
+    th{
+        background-color : rgb(214, 214, 214);
+    }
+    table,th,td{
+       
+            font-family: "Poppins", sans-serif;
+            font-weight: 600;
+            font-style: normal;
+          
+        
+        border-style: solid;
+        border-color:2px rgb(0, 0, 0);
+        border-collapse:collapse ;
+        margin: 100px auto;
+    }
+    hr{
+        
+            border: 5px solid aqua;
+           
+
+    }
+}
+
+.video{
+    center{
+        font-family: "New Amsterdam", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 20px;
+    }
+    video{
+    
+    border : solid black 
+    
+    }
+    text-align: center;
+    
+}
